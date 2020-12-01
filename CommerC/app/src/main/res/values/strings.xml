@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">CommerC</string>
+    <string name="title_saved">Saved</string>
+    <string name="title_setting">Settings</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_explore">Explore</string>
+    <string name="title_foryou">For You</string>
+    <string name="label_foryou">For You</string>
+    <string name="recent_photos">Recent Photos</string>
+    <string name="label_setting">Settings</string>
+    <string name="label_profile">Profile</string>
+    <string name="reg_business">REGISTER YOUR BUSINESS HERE</string>
+    <string-array name="data_name">
+        <item>#bukit_tranggulasih</item>
+        <item>#small_world</item>
+        <item>#baturraden</item>
+        <item>#somewhere</item>
+        <item>#somewhere</item>
+        <item>#somewhere</item>
+        <item>#somewhere</item>
+        <item>#somewhere</item>
+        <item>#somewhere</item>
+        <item>#somewhere</item>
+        <item>#somewhere</item>
+        <item>#somewhere</item>
+    </string-array>
+    <string-array name="data_photo">
+        <item>https://wisatalengkap.com/wp-content/uploads/2017/07/20181129_115658942400835_1746194897800527872_n.jpg</item>
+        <item>https://petualang.travelingyuk.com/uploads/2019/04/hanifah.15_30_4_2019_16_44_36_506.jpg</item>
+        <item>https://wisatalengkap.com/wp-content/uploads/2017/07/14374283_1096885553700304_1580737506129739776_n.jpg</item>
+        <item>https://wisatalengkap.com/wp-content/uploads/2017/07/15034686_1868762956691916_1581193915124416512_n.jpg</item>
+        <item>https://wisatalengkap.com/wp-content/uploads/2017/07/14031592_1782118505333747_712503051_n.jpg</item>
+        <item>https://tempatwisataseru.com/wp-content/uploads/2015/12/Objek-Wisata-Terbaru-Curug-Nangga-Di-Banyumas.jpg</item>
+        <item>https://tempatwisataseru.com/wp-content/uploads/2015/12/Objek-Wisata-Alam-Air-Terjun-Curug-Ceheng-di-Purwokerto.jpg</item>
+        <item>https://wisatalengkap.com/wp-content/uploads/2017/07/14272093_1612610615706001_707581289_n.jpg</item>
+        <item>https://wisatalengkap.com/wp-content/uploads/2017/07/16583406_753722238127959_4266183013592727552_n.jpg</item>
+        <item>https://wisatalengkap.com/wp-content/uploads/2017/07/14561882_1808853425994629_3808730118524764160_n.jpg</item>
+        <item>https://wisatalengkap.com/wp-content/uploads/2017/07/18579707_1909681785939246_3956258040369381376_n.jpg</item>
+        <item>https://cdn.idntimes.com/content-images/community/2020/02/img-20200225-214234-31422267d009fd6e40ca98f4dceee008_600x400.jpg</item>
+    </string-array>
+    <string-array name="theme_array">
+        <item>Light</item>
+        <item>Dark</item>
+        <item>Night</item>
+    </string-array>
+    <string name="title_activity_description">ScrollingActivity</string>
+    <string name="large_text">
+        Taman Kota Andhang Pangrenan Purwokerto
+
+        merupakan tempat rekreasi alternatif selain alun-alun Purwokerto. Terletak di Kelurahan Karangklesem Purwokerto Selatan. Diresmikan pada tanggal 13 April 2011 oleh Bupati Banyumas pada saat itu Drs. Mardjoko.
+
+        Dulunya Taman Kota Andhang Pangrenan merupakan terminal bus Purwokerto, dikarenakan ada perubahan pemerintahan pada waktu itu terminal bus Purwokerto dipindahkan ke Teluk. Dan tempat bekas terminal tersebut dibuat sebuah taman kota yang kita kenal dengan Taman Kota Andhang Pangrenan.
+
+        Lebih dikenal dengan sebutan akronim yaitu TRAP (Taman Rekreasi Andhang Pangrenan) Nama Andhang Pangrenan sendiri memiliki sebuah arti, kata Andhang berarti tempat dan Pangrenan memiliki arti hati yang riang atau senang. Jadi Andhang Pangrenan berarti tempat untuk bersenang-senang.
+
+        Anda boleh bersenang-senang sepuasnya di Andhang Pangrenan, tetapi ada yang perlu diingat Anda dilarang membawa makanan/minuman, membawa minuman keras, membawa hewan peliharaan, membawa benda tajam, membawa sepeda/otopet/sepatu roda, dan dilarang membawa bola/bermain bola. Peraturan tersebut tentunya dibuat demi untuk menjaga keamanan dan kenyamanan pada saat Anda berekreasi.
+    </string>
+    <string name="action_settings">Settings</string>
+</resources>
