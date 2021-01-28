@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "705656339730",
+    "project_id": "login-omega14",
+    "storage_bucket": "login-omega14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705656339730:android:4a73b306d664bd179f87cb",
+        "android_client_info": {
+          "package_name": "com.rodojoshuasaragih_18104021.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705656339730-tfvkmjoc01i3j6k2vnd7ted5t81mcjv1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-dNV429zMqFUK9I-1E4x1vVYPriBKOZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "705656339730-tfvkmjoc01i3j6k2vnd7ted5t81mcjv1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
