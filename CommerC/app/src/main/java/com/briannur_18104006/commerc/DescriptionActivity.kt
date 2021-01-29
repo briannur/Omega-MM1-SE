@@ -13,9 +13,5 @@ class DescriptionActivity : AppCompatActivity() {
         setContentView(R.layout.activity_description)
         setSupportActionBar(findViewById(R.id.toolbar))
         findViewById<CollapsingToolbarLayout>(R.id.toolbar_layout).title = "Andhang Pangrenan"
-        findViewById<FloatingActionButton>(R.id.fab).setOnClickListener { view ->
-            Snackbar.make(view, "This should be share button but not been implemented yet", Snackbar.LENGTH_LONG)
-                .setAction("Action", null).show()
-        }
     }
 }

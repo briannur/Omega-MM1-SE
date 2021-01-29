@@ -9,6 +9,7 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.fragment.app.Fragment
 import com.briannur_18104006.commerc.ProfileActivity
 import com.briannur_18104006.commerc.R
+import com.briannur_18104006.commerc.databinding.ActivityMainBinding
 import com.google.android.gms.maps.CameraUpdateFactory
 import com.google.android.gms.maps.OnMapReadyCallback
 import com.google.android.gms.maps.SupportMapFragment
@@ -45,7 +46,7 @@ class MapsFragment : Fragment() {
         val layout: View = inflater.inflate(R.layout.fragment_maps, container, false)
         (activity as AppCompatActivity?)!!.supportActionBar!!.hide()
 
-        return layout
+        return inflater.inflate(R.layout.fragment_maps, container, false)
     }
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
