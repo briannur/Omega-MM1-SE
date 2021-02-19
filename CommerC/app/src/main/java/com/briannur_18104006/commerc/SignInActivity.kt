@@ -34,6 +34,10 @@ class SignInActivity : AppCompatActivity(), View.OnClickListener {
                 val intent = Intent(this@SignInActivity, SignUpActivity::class.java)
                 startActivity(intent)
             }
+            R.id.tvForgot -> {
+                val intent = Intent(this@SignInActivity, SignUpActivity::class.java)
+                startActivity(intent)
+            }
         }
     }
 

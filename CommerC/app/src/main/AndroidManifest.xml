@@ -17,9 +17,17 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.CommerC" >
-        <activity android:name=".SignUpActivity" />
-        <activity android:name=".SignInActivity" />
+        android:theme="@style/Theme.CommerC">
+        <activity android:name=".SplashActivity"
+            android:theme = "@style/Theme.CommerC.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".SignUpActivity" android:theme = "@style/Theme.CommerC.NoActionBar"/>
+        <activity android:name=".SignInActivity" android:theme = "@style/Theme.CommerC.NoActionBar"/>
         <activity
             android:name=".DescriptionActivity"
             android:label="@string/title_activity_description"
@@ -40,11 +48,6 @@
         <activity
             android:name=".MainActivity"
             android:label="@string/app_name">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
         </activity>
     </application>
 

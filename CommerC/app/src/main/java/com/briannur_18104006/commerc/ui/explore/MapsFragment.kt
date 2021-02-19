@@ -43,7 +43,6 @@ class MapsFragment : Fragment() {
         container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View? {
-        val layout: View = inflater.inflate(R.layout.fragment_maps, container, false)
         (activity as AppCompatActivity?)!!.supportActionBar!!.hide()
 
         return inflater.inflate(R.layout.fragment_maps, container, false)
